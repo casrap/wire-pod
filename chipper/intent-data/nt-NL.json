@@ -67,12 +67,12 @@
 	{	
 		"name": "intent_amazon_signin", 
 		"keyphrases" : ["log in bij alexa", "bij alexa", "", "ing alex", "in bij alexa", "naar alexa", "in angelica" ],
-		"requiresexact": false
+		"requiresexact": true
 	},
 	{	
 		"name": "intent_amazon_signin", 
 		"keyphrases" : ["in outlet", "i now of elea", "out alexa", "out of ale" ],
-		"requiresexact": false
+		"requiresexact": true
 	},
 	{	
 		"name": "intent_imperative_forward",
